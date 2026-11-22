@@ -1,0 +1,17 @@
+{
+  "album": {
+    "name": "Untrue",
+    "artist": "Burial",
+    "listeners": "1200000",
+    "playcount": "24000000",
+    "url": "https://www.last.fm/music/Burial/Untrue",
+    "toptags": {"tag": [{"name": "dubstep"}]},
+    "tracks": {
+      "track": [
+        {"@attr": {"rank": "1"}, "name": "Untitled", "duration": "75"},
+        {"@attr": {"rank": "2"}, "name": "Archangel", "duration": "239"},
+        {"name": "Near Dark", "duration": "0"}
+      ]
+    }
+  }
+}

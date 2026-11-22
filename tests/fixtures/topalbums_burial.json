@@ -1,0 +1,9 @@
+{
+  "topalbums": {
+    "album": [
+      {"name": "Untrue", "playcount": "95000", "url": "https://www.last.fm/music/Burial/Untrue"},
+      {"name": "Kindred", "playcount": "40000", "url": "https://www.last.fm/music/Burial/Kindred"}
+    ],
+    "@attr": {"artist": "Burial", "page": "1", "totalPages": "1"}
+  }
+}

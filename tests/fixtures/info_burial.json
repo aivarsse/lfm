@@ -1,0 +1,25 @@
+{
+  "artist": {
+    "name": "Burial",
+    "mbid": "ce7b1e33-8f7a-4c1f-94e6-0a1e6d0b8e1f",
+    "url": "https://www.last.fm/music/Burial",
+    "image": [],
+    "streamable": "0",
+    "ontour": "0",
+    "stats": { "listeners": "1642253", "playcount": "58204291" },
+    "similar": { "artist": [] },
+    "tags": { "tag": [{ "name": "dubstep", "url": "https://www.last.fm/tag/dubstep", "count": 100 }] },
+    "bio": {
+      "links": {
+        "link": {
+          "#text": "Read more on Last.fm",
+          "rel": "original",
+          "href": "https://www.last.fm/music/Burial/+wiki"
+        }
+      },
+      "published": "1 Jan 2006, 00:00",
+      "summary": "Burial is the project of <a href=\"https://www.last.fm/music/Burial\">William Bevan</a>, a producer from South London whose debut album reshaped UK bass music. <a href=\"https://www.last.fm/music/Burial/+wiki\">Read more on Last.fm</a>",
+      "content": "full html bio"
+    }
+  }
+}

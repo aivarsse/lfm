@@ -1,0 +1,37 @@
+{
+  "toptracks": {
+    "track": [
+      {
+        "name": "Archangel",
+        "playcount": "1812345",
+        "listeners": "543210",
+        "url": "https://www.last.fm/music/Burial/_/Archangel",
+        "streamable": "0",
+        "artist": { "name": "Burial", "mbid": "", "url": "https://www.last.fm/music/Burial" },
+        "image": [],
+        "@attr": { "rank": "1" }
+      },
+      {
+        "name": "Etched Headplate",
+        "playcount": "654321",
+        "listeners": "210987",
+        "url": "https://www.last.fm/music/Burial/_/Etched+Headplate",
+        "streamable": "0",
+        "artist": { "name": "Burial", "mbid": "", "url": "https://www.last.fm/music/Burial" },
+        "image": [],
+        "@attr": { "rank": "2" }
+      },
+      {
+        "name": "Near Dark",
+        "playcount": "321098",
+        "listeners": "123456",
+        "url": "https://www.last.fm/music/Burial/_/Near+Dark",
+        "streamable": "0",
+        "artist": { "name": "Burial", "mbid": "", "url": "https://www.last.fm/music/Burial" },
+        "image": [],
+        "@attr": { "rank": "3" }
+      }
+    ],
+    "@attr": { "artist": "Burial", "page": "1", "perPage": "50", "totalPages": "1", "total": "50" }
+  }
+}

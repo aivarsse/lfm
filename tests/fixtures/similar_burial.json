@@ -1,0 +1,34 @@
+{
+  "similarartists": {
+    "artist": [
+      {
+        "name": "Kode9",
+        "match": "1.0",
+        "url": "https://www.last.fm/music/Kode9",
+        "streamable": "0",
+        "mbid": "079dde0f-6b60-4d9f-a13c-96b5ebff5885",
+        "image": [
+          { "#text": "https://lastfm.freetls.fastly.net/i/u/34s.png", "size": "small" },
+          { "#text": "https://lastfm.freetls.fastly.net/i/u/174s.png", "size": "large" }
+        ]
+      },
+      {
+        "name": "Zomby",
+        "match": "0.872",
+        "url": "https://www.last.fm/music/Zomby",
+        "streamable": "0",
+        "mbid": "b7d8b1d4-4033-44b8-b5eb-3a1b2f5c0f4b",
+        "image": []
+      },
+      {
+        "name": "Darkstar",
+        "match": "0.738",
+        "url": "https://www.last.fm/music/Darkstar",
+        "streamable": "1",
+        "mbid": "1e6b73b8-2b1a-4c1e-8e1f-5f6d7a8b9c0d",
+        "image": []
+      }
+    ],
+    "@attr": { "artist": "Burial" }
+  }
+}

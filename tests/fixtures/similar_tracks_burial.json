@@ -1,0 +1,50 @@
+{
+  "similartracks": {
+    "track": [
+      {
+        "name": "Archangel",
+        "match": "1.0",
+        "url": "https://www.last.fm/music/Burial/_/Archangel",
+        "artist": {
+          "name": "Burial",
+          "url": "https://www.last.fm/music/Burial"
+        },
+        "streamable": "0"
+      },
+      {
+        "name": "Etched Headplate",
+        "match": "0.87",
+        "url": "https://www.last.fm/music/Burial/_/Etched+Headplate",
+        "artist": {
+          "name": "Burial",
+          "url": "https://www.last.fm/music/Burial"
+        },
+        "streamable": "0"
+      },
+      {
+        "name": "Night Air",
+        "match": "0.71",
+        "url": "https://www.last.fm/music/Jamie+Woon/_/Night+Air",
+        "artist": {
+          "name": "Jamie Woon",
+          "url": "https://www.last.fm/music/Jamie+Woon"
+        },
+        "streamable": "0"
+      },
+      {
+        "name": "Etched Headplate",
+        "match": "0.6",
+        "url": "https://www.last.fm/music/Burial/_/Etched+Headplate",
+        "artist": {
+          "name": "Burial",
+          "url": "https://www.last.fm/music/Burial"
+        },
+        "streamable": "0"
+      }
+    ],
+    "@attr": {
+      "artist": "Burial",
+      "track": "Archangel"
+    }
+  }
+}

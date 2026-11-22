@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.ty_cache/
+.coverage
+coverage.xml
+diff-cover.md
+*.egg-info/
+build/
+dist/
+
+# pytest-textual-snapshot writes this next to the tests it runs
+snapshot_report.html

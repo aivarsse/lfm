@@ -1,0 +1,10 @@
+{
+  "toptags": {
+    "tag": [
+      { "name": "dubstep", "count": 100, "url": "https://www.last.fm/tag/dubstep" },
+      { "name": "uk garage", "count": 60, "url": "https://www.last.fm/tag/uk+garage" },
+      { "name": "electronic", "count": 40, "url": "https://www.last.fm/tag/electronic" }
+    ],
+    "@attr": { "artist": "Burial" }
+  }
+}

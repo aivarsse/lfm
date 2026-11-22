@@ -1,0 +1,12 @@
+{
+  "similarartists": {
+    "artist": {
+      "name": "Kode9",
+      "match": "0.91",
+      "url": "https://www.last.fm/music/Kode9",
+      "streamable": "0",
+      "image": []
+    },
+    "@attr": { "artist": "Burial" }
+  }
+}

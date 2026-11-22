@@ -1,0 +1,28 @@
+{
+  "results": {
+    "artistmatches": {
+      "artist": [
+        {
+          "name": "Burial",
+          "listeners": "1642253",
+          "url": "https://www.last.fm/music/Burial",
+          "streamable": "0",
+          "mbid": "ce7b1e33-8f7a-4c1f-94e6-0a1e6d0b8e1f",
+          "image": []
+        },
+        {
+          "name": "Burl Ives",
+          "listeners": "318742",
+          "url": "https://www.last.fm/music/Burl+Ives",
+          "streamable": "0",
+          "image": []
+        }
+      ]
+    },
+    "@attr": { "for": "burl" },
+    "opensearch:Query": { "#text": "", "role": "request", "searchTerms": "burl", "startPage": "1" },
+    "opensearch:totalResults": "2",
+    "opensearch:startIndex": "0",
+    "opensearch:itemsPerPage": "5"
+  }
+}

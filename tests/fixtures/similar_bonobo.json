@@ -1,0 +1,35 @@
+{
+  "similarartists": {
+    "artist": [
+      {
+        "name": "Four Tet",
+        "match": "0.95",
+        "url": "https://www.last.fm/music/Four+Tet",
+        "streamable": "0",
+        "image": []
+      },
+      {
+        "name": "Kode9",
+        "match": "0.5",
+        "url": "https://www.last.fm/music/Kode9",
+        "streamable": "0",
+        "image": []
+      },
+      {
+        "name": "Burial",
+        "match": "0.6",
+        "url": "https://www.last.fm/music/Burial",
+        "streamable": "0",
+        "image": []
+      },
+      {
+        "name": "Bonobo",
+        "match": "1.0",
+        "url": "https://www.last.fm/music/Bonobo",
+        "streamable": "0",
+        "image": []
+      }
+    ],
+    "@attr": { "artist": "Bonobo" }
+  }
+}
